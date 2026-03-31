@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+venv/
+.env
+qdrant_db/
+local_embedding_model/
